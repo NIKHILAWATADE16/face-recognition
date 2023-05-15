@@ -38,26 +38,26 @@ This project is a POC web application demonstrating the use of facial recognitio
 ## Classification of Unknown Embedding
 
 - using a Linear SVM (scikit-learn)
-- The application was tested on data from 20 Person
+
 
 
 ## Screenshots
 
-### Simple App UI
+### Simple App Home Page UI
 
-![Alt text](http://github.com/sonu275981/Face-Recognition-Attendance-System/blob/9351f601b8f0d0ebda517dc815f91cb1d4a119f6/demo/XI%20-jinping.png?raw=true "App UI")
+![Alt text](https://github.com/NIKHILAWATADE16/face-recognition/blob/master/ss/Screenshot%202023-05-11%20213147.png?raw=true "App UI")
 
-### Image Recognition of my Self
+### Data Entry With Name and Photo of Student
 
-![Alt text](htt://github.com/sonu275981/Face-Recognition-Attendance-System/blob/9351f601b8f0d0ebda517dc815f91cb1d4a119f6/demo/camera1.png?raw=true "App UI")
+![Alt text](https://github.com/NIKHILAWATADE16/face-recognition/blob/master/ss/Screenshot%202023-05-11%20213035.png?raw=true "App UI")
 
 ### Image Recognition of Nikhil
 
-![Alt text](hts://github.com/sonu275981/Face-Recognition-Attendance-System/blob/9351f601b8f0d0ebda517dc815f91cb1d4a119f6/demo/camera2.png?raw=true "App UI")
+![Alt text](https://github.com/NIKHILAWATADE16/face-recognition/blob/master/ss/Screenshot%202023-05-11%20213307.png?raw=true "App UI")
 
 ### Attendance in tabular format 
 
-![Alt text](hts://github.com/sonu275981/Face-Recognition-Attendance-System/blob/9351f601b8f0d0ebda517dc815f91cb1d4a119f6/demo/2021-11-15%20(5).png?raw=true "App UI")
+![Alt text](https://github.com/NIKHILAWATADE16/face-recognition/blob/master/ss/Screenshot%202023-05-11%20214035.png?raw=true "App UI")
 
 
 ## Scope of the project 🚀
